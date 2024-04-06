@@ -1,0 +1,1 @@
+Learn Web 3 uses Foundry, but we'll start with Hardhat then move to Foundry
