@@ -1,0 +1,15 @@
+{
+  "name": "lw3-whitelist-dapp",
+  "version": "1.0.0",
+  "description": "Learn Web 3 uses Foundry, but we'll start with Hardhat then move to Foundry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.2"
+  }
+}
